@@ -138,8 +138,19 @@ If this repository helped you: - Give it a ⭐ on GitHub\
 
 ## 👨‍💻 Author
 
+<a href="https://github.com/gitKeshav11/FortressFinance/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=gitKeshav11/FortressFinance" />
+</a>
+
 **Keshav Upadhyay**\
 Java Developer \| DSA Learner \| Open Source Contributor
+
+📧 Email: keshavupadhyayje@gmail.com
+
+🔗 LinkedIn: https://www.linkedin.com/in/keshavupadhyayje/
+
+🐙 GitHub: https://github.com/gitKeshav11
+
 
 ------------------------------------------------------------------------
 
