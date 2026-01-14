@@ -119,12 +119,12 @@ questions - Optimized logic examples
 
 ## 🤝 Contributing
 
-Contributions are welcome!\
+Contributions are welcome!
 If you want to improve existing code or add new array programs:
 
-1.  Fork the repository\
-2.  Create a new branch\
-3.  Commit your changes\
+1.  Fork the repository
+2.  Create a new branch
+3.  Commit your changes
 4.  Open a Pull Request
 
 ------------------------------------------------------------------------
